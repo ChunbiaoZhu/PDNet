@@ -3,7 +3,7 @@
 
 
 
-|  ![ICME 2018 logo][logo-DCC] | Paper accepted at [IEEE International Conference on Multimedia and Expo (ICME) 2018](http://www.icme2018.org/) July 23-27, 2018 San Diego, USA. |
+|  ![ICME 2018 logo][logo-ICME] | Paper accepted at [IEEE International Conference on Multimedia and Expo (ICME) 2018](http://www.icme2018.org/) July 23-27, 2018 San Diego, USA. |
 |:-:|---|
 
 [logo-ICME]: https://github.com/ChunbiaoZhu/PDNet/blob/maste/icme.png "ICME 2018 logo"
@@ -44,13 +44,13 @@ approaches.
 
 ## Code & Results
 
-Source code will be released soon! You can download in [here](https://github.com/cai199626/PDNet)
+Source code is available! You can download in [here](https://github.com/cai199626/PDNet)
 
 
 ## SSD Dataset
 The dataset proposed in our paper is one of our contributions to the research community, which public at ICCVW 2017. This dataset is collected for saliency evaluation on stereo images, and contain a variety of challenging cases.
 
-You can download in [here](https://github.com/ChunbiaoZhu/DCC-2018/)
+You can download in [here](https://github.com/ChunbiaoZhu/TPPF)
 
 If you use this dataset.
 
