@@ -46,6 +46,13 @@ approaches.
 
 Source code is available! You can download in [here](https://github.com/cai199626/PDNet)
 
+If you use this code.
+
+Please cite as:
+
+PDNet: Prior-Model Guided Depth-enhanced Network for Salient Object Detection.
+Chunbiao Zhu, Xing Cai, Kan Huang, Thomas.H Li and Ge Li
+IEEE International Conference on Multimedia and Expo (ICME) 2018.
 
 ## SSD Dataset
 The dataset proposed in our paper is one of our contributions to the research community, which public at ICCVW 2017. This dataset is collected for saliency evaluation on stereo images, and contain a variety of challenging cases.
@@ -56,9 +63,9 @@ If you use this dataset.
 
 Please cite as:
 
-PDNet: Prior-Model Guided Depth-enhanced Network for Salient Object Detection.
-Chunbiao Zhu, Xing Cai, Kan Huang, Thomas.H Li and Ge Li
-IEEE International Conference on Multimedia and Expo (ICME) 2018.
+G. Li and C. Zhu, “A three-pathway psychobiological
+framework of salient object detection using stereoscopic
+technology,” in 2017 ICCVW, Oct 2017, pp. 3008–3014.
 
 
 ## Acknowledgements
