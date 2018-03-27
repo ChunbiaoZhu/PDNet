@@ -54,6 +54,13 @@ PDNet: Prior-Model Guided Depth-enhanced Network for Salient Object Detection.
 Chunbiao Zhu, Xing Cai, Kan Huang, Thomas.H Li and Ge Li
 IEEE International Conference on Multimedia and Expo (ICME) 2018.
 
+    @INPROCEEDINGS{PDNet2018, 
+    author={Chunbiao, Zhu and Xing, Cai and Kan, Huang and Thomas.H, Li and Ge, Li }, 
+    booktitle={2018 International Conference on Multimedia and Expo}, 
+    title={PDNet: Prior-model Guided Depth-enhanced Network for Salient Object Detection}, 
+    year={2017}, 
+    }
+
 ## SSD Dataset
 The dataset proposed in our paper is one of our contributions to the research community, which public at ICCVW 2017. This dataset is collected for saliency evaluation on stereo images, and contain a variety of challenging cases.
 
