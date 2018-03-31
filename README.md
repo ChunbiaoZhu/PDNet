@@ -44,14 +44,14 @@ approaches.
 
 ## Code & Results
 
-Source code is available! You can download in [here](https://github.com/cai199626/PDNet)
+Source code is available! You can download in [here](https://github.com/ChunbiaoZhu/PDNet/blob/master/PDNet-master.zip) or [here](https://github.com/cai199626/PDNet) 
 
 ## How to use 
 
     The pre_trained model
-    Baidu Yun: https://pan.baidu.com/s/1rGXSTxtU8iNQa7FPGP83Wg password: 9hbq
+    [Baidu Yun:] (https://pan.baidu.com/s/1rGXSTxtU8iNQa7FPGP83Wg) password: 9hbq
 
-    Google drive: https://drive.google.com/open?id=18yXaBAeG_6qFuk4wyViSWiEXog5ctabM
+    [Google drive:] (https://drive.google.com/open?id=18yXaBAeG_6qFuk4wyViSWiEXog5ctabM)
 
     The pre-trained model based on MSRA10k and DUTS-TR datasets, which contain about 20k pictures.
 
