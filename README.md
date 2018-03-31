@@ -48,24 +48,29 @@ Source code is available! You can download in [here](https://github.com/Chunbiao
 
 ## How to use 
 
-    The pre_trained model
-    [Baidu Yun:] (https://pan.baidu.com/s/1rGXSTxtU8iNQa7FPGP83Wg) password: 9hbq
+The pre_trained model
 
-    [Google drive:] (https://drive.google.com/open?id=18yXaBAeG_6qFuk4wyViSWiEXog5ctabM)
+[Baidu Yun:] (https://pan.baidu.com/s/1rGXSTxtU8iNQa7FPGP83Wg) password: 9hbq
 
-    The pre-trained model based on MSRA10k and DUTS-TR datasets, which contain about 20k pictures.
+[Google drive:] (https://drive.google.com/open?id=18yXaBAeG_6qFuk4wyViSWiEXog5ctabM)
 
-    Train
-    Download the dataset, for example, MSRA10k, and run the preprocess script
+The pre-trained model based on MSRA10k and DUTS-TR datasets, which contain about 20k pictures.
 
-    python preprocess.py
-    then run
+Train
 
-    python train.py
-    Test
-    Download the pre-trained model and the test picture, run
+Download the dataset, for example, MSRA10k, and run the preprocess script
 
-    python test.py
+python preprocess.py 
+
+then run
+
+python train.py
+
+Test
+
+Download the pre-trained model and the test picture, run
+
+python test.py
 
 
 If you use this code.
