@@ -1,4 +1,4 @@
-## PDNet: Prior-Model Guided Depth-enhanced Network for Salient Object Detection
+## PDNet: Prior-model Guided Depth-enhanced Network for Salient Object Detection
 
 
 
