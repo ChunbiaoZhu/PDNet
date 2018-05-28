@@ -44,7 +44,7 @@ approaches.
 
 ## Code
 
-Source code is available! You can download in [here](https://github.com/ChunbiaoZhu/PDNet/blob/master/PDNet-master.zip) or [here](https://github.com/cai199626/PDNet) 
+Source code is available! You can download in [here](https://github.com/cai199626/PDNet) 
 
 
 ## How to use 
