@@ -46,34 +46,6 @@ approaches.
 
 Source code is available! You can download in [here](https://github.com/cai199626/PDNet) 
 
-
-## How to use 
-
-The pre_trained model
-
-[Baidu Yun:] (https://pan.baidu.com/s/1rGXSTxtU8iNQa7FPGP83Wg) password: 9hbq
-
-[Google drive:] (https://drive.google.com/open?id=18yXaBAeG_6qFuk4wyViSWiEXog5ctabM)
-
-The pre-trained model based on MSRA10k and DUTS-TR datasets, which contain about 20k pictures.
-
-Train
-
-Download the dataset, for example, MSRA10k, and run the preprocess script
-
-python preprocess.py 
-
-then run
-
-python train.py
-
-Test
-
-Download the pre-trained model and the test picture, run
-
-python test.py
-
-
 If you use this code.
 
 Please cite as:
@@ -113,15 +85,5 @@ All the datasets we used, you can download in the following link:
 
 Link：https://pan.baidu.com/s/1fIL4T0ZF2V1RAikr0mmpmg 
 pwd：4bwc
-
-
-## Acknowledgements
-
-This work was supported by the grant of National Natural Science Foundation of China (No.U1611461), Shenzhen Peacock Plan (20130408-183003656), and Science and Technology Planning Project of Guangdong Province, China (No. 2014B090910001).
-
-
-## Contact
-
-If you have any general doubt about our work or code which may be of interest for other researchers, please use the [public issues section](https://github.com/ChunbiaoZhu/PDNet/issues) on this github repo. Alternatively, drop us an e-mail at <mailto:zhuchunbiao@pku.edu.cn>.
 
 
