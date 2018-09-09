@@ -3,7 +3,7 @@
 
 
 
-|  ![ICME 2018 logo][logo-ICME] | Paper accepted at [IEEE International Conference on Multimedia and Expo (ICME) 2018](http://www.icme2018.org/) July 23-27, 2018 San Diego, USA. |
+|  ![ICME 2018 logo][logo-ICME] | Paper was presented at [IEEE International Conference on Multimedia and Expo (ICME) 2018](http://www.icme2018.org/) July 23-27, 2018 San Diego, USA. |
 |:-:|---|
 
 [logo-ICME]: https://github.com/ChunbiaoZhu/PDNet/blob/master/icme.png "ICME 2018 logo"
