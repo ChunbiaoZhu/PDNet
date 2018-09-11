@@ -41,6 +41,8 @@ approaches.
 ## Framework
 ![QFramework saliency detection](https://github.com/ChunbiaoZhu/PDNet/blob/master/framework.png)
 
+## Lost Dataset (NLPR1000 & NJU2000)
+You can download in [here](https://github.com/ChunbiaoZhu/PDNet/blob/master/NJU2000loss.zip)  and [here]([here](https://github.com/ChunbiaoZhu/PDNet/blob/master/NJU2000loss.zip) 
 
 ## Code
 
