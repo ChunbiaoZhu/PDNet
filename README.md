@@ -6,7 +6,7 @@
 
 [logo-ICME]: https://github.com/ChunbiaoZhu/PDNet/blob/master/icme.png "ICME 2018 logo"
 
-## This Arxiv paper is under review.
+## This Arxiv paper has been under review since 2018 October.
 
 
 ## Abstract
