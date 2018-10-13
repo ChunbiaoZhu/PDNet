@@ -1,12 +1,8 @@
 ## PDNet: Prior-model Guided Depth-enhanced Network for Salient Object Detection
 
 
-|  ![ICME 2018 logo][logo-ICME] | Paper was just presented (not included) at [IEEE International Conference on Multimedia and Expo (ICME) 2018](http://www.icme2018.org/) July 23-27, 2018 San Diego, USA. |
-|:-:|---|
 
-[logo-ICME]: https://github.com/ChunbiaoZhu/PDNet/blob/master/icme.png "ICME 2018 logo"
-
-## This Arxiv paper has been under review since 2018 October.
+## This Arxiv paper has been under review.
 
 
 ## Abstract
