@@ -2,7 +2,7 @@
 
 
 
-## This Arxiv paper has been under review.
+## This Arxiv paper is under review.
 
 
 ## Abstract
