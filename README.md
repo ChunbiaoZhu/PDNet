@@ -2,7 +2,11 @@
 
 
 
-## This Arxiv paper is under review.
+
+|  ![ICME 2019 logo][logo-icme] | Paper accepted at [IEEE International Conference on Multimedia and Expo (ICME) 2019 (Oral, Top 15%)](http://www.icme2019.org/)   |
+|:-:|---|
+
+[logo-icme]: https://github.com/ChunbiaoZhu/PDNet/blob/master/icme.png "ICME 2019 logo"
 
 
 ## Abstract
